@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className='navbar'>
             <div className="container">
                 <div className={slide ? 'logo slide-right' : 'logo'}>
-                    <h3>Race.</h3>
+                    <h3>ROOSTERGRIN</h3>
                 </div>
 
                 <ul className={nav ? 'nav-menu active' : 'nav-menu'}>

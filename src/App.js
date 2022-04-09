@@ -14,7 +14,7 @@ function App() {
       <Speed />
       <Handling />
       <Options />
-      <Contact />
+      {/* <Contact /> */}
     </>
   );
 }
